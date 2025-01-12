@@ -12,8 +12,8 @@
 
 <!-- Динамические бейджи (Shields.io) -->
 <br>
-[![Codewars Rank](https://img.shields.io/badge/Codewars%20Rank-YOUR_RANK_HERE-blue)](https://www.codewars.com/users/YOUR_USERNAME)
-[![Codewars Completed](https://img.shields.io/badge/Codewars%20Completed-YOUR_COMPLETED_HERE-green)](https://www.codewars.com/users/YOUR_USERNAME)
+[![Codewars Rank](https://img.shields.io/badge/Codewars%20Rank-YOUR_RANK_HERE-blue)](https://www.codewars.com/users/Alexej177)
+[![Codewars Completed](https://img.shields.io/badge/Codewars%20Completed-YOUR_COMPLETED_HERE-green)](https://www.codewars.com/users/Alexej177)
 
 <br>
 
