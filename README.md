@@ -8,6 +8,8 @@
 
 <h2 align="center">Hi Fellow 👋, I'm Pudov Alexey!</h2>
 
+![snake gif](https://github.com/PudovAlexey/PudovAlexey/blob/output/github-contribution-grid-snake.gif)
+
 
 ## 💻 Frontent Stack:
 
