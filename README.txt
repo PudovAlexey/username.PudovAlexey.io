@@ -32,4 +32,4 @@ I am a passionate software developer with a strong focus on front-end technologi
 ## Contact 📧
 You can reach me at your@email.com
 
-<!-- Другие разделы -->
+Другие разделы
