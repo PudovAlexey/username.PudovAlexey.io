@@ -1,16 +1,34 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+<div align="center">
 
-<div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
+  # My GitHub Profile 👋
+
+  <p>Ya krutoy specialist !</p>
+
 </div>
+<!-- Бейдж Codewars (ссылка на профиль) -->
+<a href="https://www.codewars.com/users/YOUR_USERNAME">
+   <img src="" alt="Codewars Badge" />
+</a>
 
-</body>
-</html>
+<!-- Динамические бейджи (Shields.io) -->
+<br>
+[![Codewars Rank](https://img.shields.io/badge/Codewars%20Rank-YOUR_RANK_HERE-blue)](https://www.codewars.com/users/YOUR_USERNAME)
+[![Codewars Completed](https://img.shields.io/badge/Codewars%20Completed-YOUR_COMPLETED_HERE-green)](https://www.codewars.com/users/YOUR_USERNAME)
+
+<br>
+
+## About Me 🚀
+
+<!-- Здесь можно добавить описание себя, свои навыки и интересы -->
+I am a passionate software developer with a strong focus on front-end technologies. I enjoy working on complex problems and learning new things.
+
+## Projects 🛠️
+
+<!-- Здесь можно добавить список своих проектов -->
+* [My First Project](https://github.com/your_username/your_project1) - A description of this project
+* [My Second Project](https://github.com/your_username/your_project2) - A description of this project
+
+## Contact 📧
+You can reach me at your@email.com
+
+<!-- Другие разделы -->
