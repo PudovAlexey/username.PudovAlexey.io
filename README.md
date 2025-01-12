@@ -6,7 +6,7 @@
   <img width="1200" src="assets/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 </p>  
 
-<h2 align="center">Hi Fellow 👋, I'm codeoxygen!</h2>
+<h2 align="center">Hi Fellow 👋, I'm PudovAlexey!</h2>
 
 
 ## 💻 Tech Stack:
@@ -42,9 +42,9 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=codeoxygen&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=codeoxygen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PudovAlexey&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PudovAlexey&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PudovAlexey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Get in touch with me 👋:
 
@@ -72,12 +72,12 @@
 </a>
 
 ----
-Credit: [codeoxygen](https://github.com/codeoxygen)
+Credit: [PudovAlexey](https://github.com/PudovAlexey)
 
 Last Edited on: 07/02/2024           
 
 <!--
-**codeoxygen/codeoxygen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PudovAlexey/PudovAlexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
