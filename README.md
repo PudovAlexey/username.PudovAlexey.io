@@ -9,24 +9,51 @@
 <h2 align="center">Hi Fellow 👋, I'm PudovAlexey!</h2>
 
 
-## 💻 Tech Stack:
+## 💻 Frontent Stack:
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EA4E2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-EA4E2C?style=flat-square&logo=Tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-A8B9CC?style=flat-square&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-91EA2C?style=flat-square&logo=Pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-A8B9CC?style=flat-square&logo=SQL&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-2CB6EA?style=flat-square&logo=PySpark&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-3776AB?style=flat-square&logo=scikit-learn&logoColor=white)
-![Gensim](https://img.shields.io/badge/Gensim-EA4E2C?style=flat-square&logo=Gensim&logoColor=white)
-![Spacy](https://img.shields.io/badge/Spacy-3776AB?style=flat-square&logo=Spacy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-EA4E2C?style=flat-square&logo=LangChain&logoColor=white)
-![Huggingface](https://img.shields.io/badge/huggingface-CA2CEA?style=flat-square&logo=huggingface&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=JavaScript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-A8B9CC?style=flat-square&logo=Rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux%20Saga-999999?style=flat-square&logo=Redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-007ACC?style=flat-square&logo=React&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-FF4785?style=flat-square&logo=React&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=Material-UI&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=Antdesign&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK%20Query-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-00BFFF?style=flat-square&logo=React&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)
+![REST](https://img.shields.io/badge/REST-00BFFF?style=flat-square&logo=REST&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-00BFFF?style=flat-square&logo=gRPC&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
+![Conva](https://img.shields.io/badge/Conva-00BFFF?style=flat-square&logo=React&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas-00BFFF?style=flat-square&logo=HTML5&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-0B3E8D?style=flat-square&logo=Leaflet&logoColor=white)
+![2GIS](https://img.shields.io/badge/2GIS-00BFFF?style=flat-square&logo=2GIS&logoColor=white)
+![Animate](https://img.shields.io/badge/Animate-FF6F61?style=flat-square&logo=Adobe&logoColor=white)
 
+## 💻 Backand Stack:
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
+![Actix Web](https://img.shields.io/badge/Actix%20Web-0A0A0A?style=flat-square&logo=Rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-0A0A0A?style=flat-square&logo=Rust&logoColor=white)
+![Tower](https://img.shields.io/badge/Tower-0A0A0A?style=flat-square&logo=Rust&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=Rust&logoColor=white)
+![REST](https://img.shields.io/badge/REST-00BFFF?style=flat-square&logo=REST&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-00BFFF?style=flat-square&logo=gRPC&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)
+![Serde](https://img.shields.io/badge/Serde-000000?style=flat-square&logo=Rust&logoColor=white)
+![Utoipa](https://img.shields.io/badge/Utoipa-000000?style=flat-square&logo=Rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-EA2828?style=flat-square&logo=Apache&logoColor=white)
 
 ## 👨🏻‍💻 About Me
 
