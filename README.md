@@ -6,7 +6,7 @@
   <img width="1200" src="assets/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 </p>  
 
-<h2 align="center">Hi Fellow 👋, I'm PudovAlexey!</h2>
+<h2 align="center">Hi Fellow 👋, I'm Pudov Alexey!</h2>
 
 
 ## 💻 Frontent Stack:
@@ -57,13 +57,11 @@
 
 ## 👨🏻‍💻 About Me
 
-🔭 &nbsp;As an accomplished AI Engineer specializing in ML, Deep Learning, and LLM, I am deeply immersed in cutting-edge technologies.\
-🌱 &nbsp;My recent focus has revolved around the development and deployment of bespoke LLM applications.\
-🛠️ &nbsp;Presently, I am spearheading the creation of an LLM application tailored for the detection of computer program spam.\
+🔭 &nbsp;Over 5 years of experience in web application development. I have a deep understanding of both frontend and backend development. I am interested in fintech technologies, cryptocurrencies, and smart contract development.\
+🌱 &nbsp;Regularly participate in hackathons, attend conferences on frontend and backend development, and write articles for Stack Overflow and the IT community.\
+🛠️ &nbsp;Сurrently holding the position of Team Lead Frontend Developer for a team of 4 people on a project to develop a module for automating the creation of operational schedules at Sheremetyevo International Airport.\
 💼 &nbsp;I am readily available for consultations and freelance opportunities.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at lahiruprabhath099@gmail.com! I'll try to respond as soon as I can.\
 
 <div align="center"> </div>
 
@@ -76,16 +74,19 @@
 ## Get in touch with me 👋:
 
 <p>
-    <a href="https://twitter.com/LahiruJayakodi3"> 
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=35>
-    </a> 
-    <a href="https://www.linkedin.com/in/lahiru-jayakodi-b912b0217">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35>
-    </a> 
-    <a href="https://stackoverflow.com/users/13915199/lahiru-prabhath">
-        <img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=35>
-    </a>
-  
+
+  <a href="https://t.me/@Alexej177">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=35>
+</a>
+
+<a href="https://www.linkedin.com/in/alex-pudov-930278262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35>
+</a>
+
+<a href="https://www.instagram.com/share/p/_70mB9Nlg">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35>
+</a>
+
 </p>
 
 
@@ -102,18 +103,3 @@
 Credit: [PudovAlexey](https://github.com/PudovAlexey)
 
 Last Edited on: 07/02/2024           
-
-<!--
-**PudovAlexey/PudovAlexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
