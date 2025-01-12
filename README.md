@@ -1,4 +1,6 @@
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PudovAlexey&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Pudov Alexey</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Software Frontend Enjeneer</h3>
 
 <p>Ya krutoy specialist !</p>
 
