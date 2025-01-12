@@ -55,6 +55,11 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-EA2828?style=flat-square&logo=Apache&logoColor=white)
 
+## 💻 Training:
+<h3>Codewars solving problems</h3>
+[![codewars](https://www.codewars.com/users/Alexej177/badges/large)](https://www.codewars.com/users/Alexej177)
+
+
 ## 👨🏻‍💻 About Me
 
 🔭 &nbsp;Over 5 years of experience in web application development. I have a deep understanding of both frontend and backend development. I am interested in fintech technologies, cryptocurrencies, and smart contract development.\
@@ -102,4 +107,4 @@
 ----
 Credit: [PudovAlexey](https://github.com/PudovAlexey)
 
-Last Edited on: 07/02/2024           
+Last Edited on: 12/01/2025           
